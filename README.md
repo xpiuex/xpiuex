@@ -5,7 +5,7 @@
 
 
 
-### Connect with me
+ ### Connect with me
 <div align="center">
 <a href="https://instagram.com/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -23,7 +23,7 @@
 
 <br />
 
-### Tools I like to use
+ ### Tools I like to use
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
