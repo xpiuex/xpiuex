@@ -22,3 +22,8 @@
 </div>  
 
 <br />
+![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white))
+
+![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
+
+![Vivaldi](https://img.shields.io/badge/Vivaldi-%23EF3939.svg?style=for-the-badge&logo=Vivaldi&logoColor=white)
