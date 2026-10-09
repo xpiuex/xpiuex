@@ -11,7 +11,7 @@
 ![GitHub Actions](https://shields.io)
 
 <!-- ป้าย Go -->
-![Go](https://shields.io)
+[Go](https://shields.io)
 
 <!-- ป้าย Prometheus -->
 ![Prometheus](https://shields.io)
