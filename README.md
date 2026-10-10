@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F66934377%2F223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif&f=1&nofb=1&ipt=0df4b00dea85aa79adbcb5a395a7e995e90f160218f187d35ffed38a4d681c3a&ipo=images" align="center" height="" width="427" />
+<img src="https://raw.githubusercontent.com/xpiuex/xpiuex/refs/heads/main/images/4eb6ec149619231.6303869e507ab-204063413.gif" align="center" height="" width="427" />
 </div>  
   
 
