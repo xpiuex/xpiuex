@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/xpiuex/xpiuex/refs/heads/httpsss/images/4eb6ec149619231.6303869e507ab-204063413.gif](https://raw.githubusercontent.com/xpiuex/xpiuex/refs/heads/main/images/About%20Me_20261011_192655_0000.jpg" align="center" height="" width="427" />
+<img src="https://raw.githubusercontent.com/xpiuex/xpiuex/refs/heads/main/images/About%20Me_20261011_192655_0000.jpg" align="center" height="" width="427" />
 </div>  
   
 
